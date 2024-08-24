@@ -1,5 +1,5 @@
 # CasualMobileGame
-This project is currenlty in development thats why is in private repo.
+This project is currenlty in development.
 If you have a question feel free to ask me.
 
 ## 🚀 About Me
