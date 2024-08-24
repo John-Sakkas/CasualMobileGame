@@ -1,6 +1,6 @@
 # CasualMobileGame
 This project is currenlty in development.
-If you have a question feel free to ask me.
+If you have any question feel free to ask me.
 
 ## 🚀 About Me
 My name is John and i'm a junior software engineer...
